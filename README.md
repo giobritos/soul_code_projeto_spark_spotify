@@ -36,4 +36,4 @@ Com base nas análises realizadas, obtivemos algumas informações sobre as mús
 Este projeto está em constante evolução, e novas análises e melhorias podem ser feitas. Sinta-se à vontade para contribuir, adicionar novas funcionalidades ou realizar análises adicionais nos dados do Spotify. Todas as contribuições são bem-vindas!
 
 ## Autor
-Este projeto foi desenvolvido por [Giovana de Brito Silva](https://github.com/giobritos), durante o Bootcamp de Engenharia de Dados da SoulCode Academy. Para entrar em contato, você pode enviar um e-mail para [giovanadebritos@gmail.com].
+Este projeto foi desenvolvido por [Giovana de Brito Silva](https://github.com/giobritos), durante o Bootcamp de Engenharia de Dados da SoulCode Academy. Para entrar em contato, você pode enviar um e-mail para giovanadebritos@gmail.com.

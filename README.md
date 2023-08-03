@@ -32,7 +32,7 @@ O notebook contém as seguintes etapas:
 ## Conclusões das Análises
 Com base nas análises realizadas, obtivemos algumas informações sobre as músicas disponíveis no Spotify. Encontramos músicas com valências de áudio extremas, algumas das mais tristes e outras das mais felizes. Também observamos a quantidade de discurso presente em algumas músicas, que pode indicar faixas que se assemelham a poesias, entrevistas ou audiolivros. Além disso, identificamos músicas com alta danceabilidade, ideais para quem busca animação e energia em suas playlists.
 
-## Convite para Contribuições
+## Contribuições
 Este projeto está em constante evolução, e novas análises e melhorias podem ser feitas. Sinta-se à vontade para contribuir, adicionar novas funcionalidades ou realizar análises adicionais nos dados do Spotify. Todas as contribuições são bem-vindas!
 
 ## Autor
